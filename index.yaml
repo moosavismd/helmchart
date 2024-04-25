@@ -3,12 +3,12 @@ entries:
   uid-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-26T02:28:50.658928+03:30"
+    created: "2024-04-26T02:33:45.6030154+03:30"
     description: A Helm chart for Kubernetes
     digest: 8f501ddb6693b3d8340a713775b114e185ac7831656ca2aee110db4a35b8f52c
     name: uid-app
     type: application
     urls:
-    - https://moosavismd.github.com/helmchart/uid-app-0.1.0.tgz
+    - https://moosavismd.github.io/helmchart/uid-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-26T02:28:50.6580401+03:30"
+generated: "2024-04-26T02:33:45.6024122+03:30"
